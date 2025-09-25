@@ -1,0 +1,308 @@
+[
+  {
+    "id": 1,
+    "name": "Igor Grosu",
+    "team": "PAS",
+    "imageUrl": "https://alegeri.md/images/thumb/d/d2/Igor-Grosu.jpg/250px-Igor-Grosu.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Natalia Gavrilița",
+    "team": "PAS",
+    "imageUrl": "https://alegeri.md/images/thumb/d/d4/Natalia-Gavrilita.jpg/250px-Natalia-Gavrilita.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Adrian Băluțel",
+    "team": "PAS",
+    "imageUrl": "https://alegeri.md/images/thumb/2/20/Adrian-Balutel.jpg/250px-Adrian-Balutel.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Vladimir Bolea",
+    "team": "PAS",
+    "imageUrl": "https://alegeri.md/images/thumb/c/c9/Vladimir-Bolea.jpg/250px-Vladimir-Bolea.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Lilian Carp",
+    "team": "PAS",
+    "imageUrl": "https://alegeri.md/images/thumb/d/d6/Lilian-Carp.jpg/250px-Lilian-Carp.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Ina Coșeru",
+    "team": "PAS",
+    "imageUrl": "https://alegeri.md/images/thumb/f/f0/Ina-Coseru.jpg/250px-Ina-Coseru.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Doina Gherman",
+    "team": "PAS",
+    "imageUrl": "https://alegeri.md/images/thumb/1/13/Doina-Gherman.jpg/250px-Doina-Gherman.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Ion Groza",
+    "team": "PAS",
+    "imageUrl": "https://alegeri.md/images/thumb/6/67/Ion-Groza.jpg/250px-Ion-Groza.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Sergiu Litvinenco",
+    "team": "PAS",
+    "imageUrl": "https://alegeri.md/images/thumb/0/05/Sergiu-Litvinenco.jpg/250px-Sergiu-Litvinenco.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Radu Marian",
+    "team": "PAS",
+    "imageUrl": "https://alegeri.md/images/thumb/9/9b/Radu-Marian.jpg/250px-Radu-Marian.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Liliana Nicolaescu-Onofrei",
+    "team": "PAS",
+    "imageUrl": "https://alegeri.md/images/thumb/1/16/Liliana-Nicolaescu-Onofrei.jpg/250px-Liliana-Nicolaescu-Onofrei.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Virgiliu Pâslariuc",
+    "team": "PAS",
+    "imageUrl": "https://alegeri.md/images/thumb/2/25/Virgiliu-Paslariuc.jpg/250px-Virgiliu-Paslariuc.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Dan Perciun",
+    "team": "PAS",
+    "imageUrl": "https://alegeri.md/images/thumb/9/9f/Dan-Perciun.jpg/250px-Dan-Perciun.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Mihai Popșoi",
+    "team": "PAS",
+    "imageUrl": "https://alegeri.md/images/thumb/f/fc/Mihail-Popsoi.jpg/250px-Mihail-Popsoi.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Veronica Roșca",
+    "team": "PAS",
+    "imageUrl": "https://alegeri.md/images/thumb/c/cf/Veronica-Rosca.jpg/250px-Veronica-Rosca.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Andrei Spînu",
+    "team": "PAS",
+    "imageUrl": "https://alegeri.md/images/thumb/0/0f/Andrei-Spinu.jpg/250px-Andrei-Spinu.jpg"
+  },
+  {
+    "id": 17,
+    "name": "Olesea Stamate",
+    "team": "CRED",
+    "imageUrl": "https://alegeri.md/images/thumb/5/5a/Olesea-Stamate.jpg/250px-Olesea-Stamate.jpg"
+  },
+  {
+    "id": 18,
+    "name": "Larisa Voloh",
+    "team": "PAS",
+    "imageUrl": "https://alegeri.md/images/thumb/0/05/Larisa-Voloh.jpg/250px-Larisa-Voloh.jpg"
+  },
+  {
+    "id": 19,
+    "name": "Artur Mija",
+    "team": "PAS",
+    "imageUrl": "https://alegeri.md/images/thumb/1/17/Artur-Mija.jpg/250px-Artur-Mija.jpg"
+  },
+  {
+    "id": 20,
+    "name": "Dorin Chirtoacă",
+    "team": "PL",
+    "imageUrl": "https://alegeri.md/images/thumb/a/a0/Dorin-Chirtoaca.jpg/250px-Dorin-Chirtoaca.jpg"
+  },
+  {
+    "id": 21,
+    "name": "Mihai Ghimpu",
+    "team": "PL",
+    "imageUrl": "https://alegeri.md/images/thumb/7/79/Mihai-Ghimpu.jpg/250px-Mihai-Ghimpu.jpg"
+  },
+  {
+    "id": 22,
+    "name": "Corina Fusu",
+    "team": "PL",
+    "imageUrl": "https://alegeri.md/images/thumb/5/54/Corina-Fusu.jpg/250px-Corina-Fusu.jpg"
+  },
+  {
+    "id": 23,
+    "name": "Veronica Herța",
+    "team": "PL",
+    "imageUrl": "https://alegeri.md/images/thumb/7/79/Veronica-Herta.jpg/250px-Veronica-Herta.jpg"
+  },
+  {
+    "id": 24,
+    "name": "Mihai Moldovanu",
+    "team": "PL",
+    "imageUrl": "https://alegeri.md/images/thumb/d/d8/Mihai-Moldovanu.jpg/250px-Mihai-Moldovanu.jpg"
+  },
+  {
+    "id": 25,
+    "name": "Ion Apostol",
+    "team": "PL",
+    "imageUrl": "https://alegeri.md/images/thumb/6/6a/Ion-Apostol.jpg/250px-Ion-Apostol.jpg"
+  },
+  {
+    "id": 26,
+    "name": "Igor Dodon",
+    "team": "PSRM",
+    "imageUrl": "https://alegeri.md/images/thumb/9/9a/Igor-Dodon.jpg/250px-Igor-Dodon.jpg"
+  },
+  {
+    "id": 27,
+    "name": "Vlad Batrîncea",
+    "team": "PSRM",
+    "imageUrl": "https://alegeri.md/images/thumb/d/d7/Vlad-Batrincea.jpg/250px-Vlad-Batrincea.jpg"
+  },
+  {
+    "id": 28,
+    "name": "Alla Dolință",
+    "team": "PSRM",
+    "imageUrl": "https://alegeri.md/images/thumb/8/8d/Alla-Dolinta.jpg/250px-Alla-Dolinta.jpg"
+  },
+  {
+    "id": 29,
+    "name": "Corneliu Furculiță",
+    "team": "PSRM",
+    "imageUrl": "https://alegeri.md/images/thumb/7/7d/Corneliu-Furculita.jpg/250px-Corneliu-Furculita.jpg"
+  },
+  {
+    "id": 30,
+    "name": "Oleg Lipskii",
+    "team": "PSRM",
+    "imageUrl": "https://alegeri.md/images/thumb/9/99/Oleg-Lipskii.jpg/250px-Oleg-Lipskii.jpg"
+  },
+  {
+    "id": 31,
+    "name": "Irina Lozovan",
+    "team": "PSRM",
+    "imageUrl": "https://alegeri.md/images/thumb/f/f5/Irina-Lozovan.jpg/250px-Irina-Lozovan.jpg"
+  },
+  {
+    "id": 32,
+    "name": "Andrei Năstase",
+    "team": "PPDA",
+    "imageUrl": "https://alegeri.md/images/thumb/1/13/Andrei-Nastase.jpg/250px-Andrei-Nastase.jpg"
+  },
+  {
+    "id": 33,
+    "name": "Inga Grigoriu",
+    "team": "PPDA",
+    "imageUrl": "https://alegeri.md/images/thumb/e/ee/Inga-Grigoriu.jpg/250px-Inga-Grigoriu.jpg"
+  },
+  {
+    "id": 34,
+    "name": "Igor Munteanu",
+    "team": "PPDA",
+    "imageUrl": "https://alegeri.md/images/thumb/e/e5/Igor-Munteanu.jpg/250px-Igor-Munteanu.jpg"
+  },
+  {
+    "id": 35,
+    "name": "Stanislav Pavlovschi",
+    "team": "PPDA",
+    "imageUrl": "https://alegeri.md/images/thumb/e/e1/Stanislav-Pavlovschi.jpg/250px-Stanislav-Pavlovschi.jpg"
+  },
+  {
+    "id": 36,
+    "name": "Alexandru Slusari",
+    "team": "PPDA",
+    "imageUrl": "https://alegeri.md/images/thumb/2/27/Alexandru-Slusari.jpg/250px-Alexandru-Slusari.jpg"
+  },
+  {
+    "id": 37,
+    "name": "Liviu Vovc",
+    "team": "PPDA",
+    "imageUrl": "https://alegeri.md/images/thumb/8/82/Liviu-Vovc.jpg/250px-Liviu-Vovc.jpg"
+  },
+  {
+    "id": 38,
+    "name": "Chiril Moțpan",
+    "team": "PPDA",
+    "imageUrl": "https://alegeri.md/images/thumb/0/0e/Chiril-Motpan.jpg/250px-Chiril-Motpan.jpg"
+  },
+  {
+    "id": 39,
+    "name": "Vladimir Voronin",
+    "team": "PCRM",
+    "imageUrl": "https://alegeri.md/images/thumb/7/7d/Vladimir-Voronin.jpg/250px-Vladimir-Voronin.jpg"
+  },
+  {
+    "id": 40,
+    "name": "Elena Bodnarenco",
+    "team": "PCRM",
+    "imageUrl": "https://alegeri.md/images/thumb/a/ab/Elena-Bodnarenco.jpg/250px-Elena-Bodnarenco.jpg"
+  },
+  {
+    "id": 41,
+    "name": "Oleg Reidman",
+    "team": "PCRM",
+    "imageUrl": "https://alegeri.md/images/thumb/1/11/Oleg-Reidman.jpg/250px-Oleg-Reidman.jpg"
+  },
+  {
+    "id": 42,
+    "name": "Constantin Starîș",
+    "team": "PCRM",
+    "imageUrl": "https://alegeri.md/images/thumb/9/98/Constantin-Staris.jpg/250px-Constantin-Staris.jpg"
+  },
+  {
+    "id": 43,
+    "name": "Pavel Filip",
+    "team": "PDM",
+    "imageUrl": "https://alegeri.md/images/thumb/2/22/Pavel-Filip.jpg/250px-Pavel-Filip.jpg"
+  },
+  {
+    "id": 44,
+    "name": "Dumitru Diacov",
+    "team": "PDM",
+    "imageUrl": "https://alegeri.md/images/thumb/e/ec/Dumitru-Diacov.jpg/250px-Dumitru-Diacov.jpg"
+  },
+  {
+    "id": 45,
+    "name": "Monica Babuc",
+    "team": "PDM",
+    "imageUrl": "https://alegeri.md/images/thumb/c/ce/Monica-Babuc.jpg/250px-Monica-Babuc.jpg"
+  },
+  {
+    "id": 46,
+    "name": "Valentina Buliga",
+    "team": "PDM",
+    "imageUrl": "https://alegeri.md/images/thumb/d/da/Valentina-Buliga.jpg/250px-Valentina-Buliga.jpg"
+  },
+  {
+    "id": 47,
+    "name": "Alexandru Cauia",
+    "team": "PDM",
+    "imageUrl": "https://alegeri.md/images/thumb/6/6e/Alexandru-Cauia.jpg/250px-Alexandru-Cauia.jpg"
+  },
+  {
+    "id": 48,
+    "name": "Nicolae Ciubuc",
+    "team": "PDM",
+    "imageUrl": "https://alegeri.md/images/thumb/9/93/Nicolae-Ciubuc.jpg/250px-Nicolae-Ciubuc.jpg"
+  },
+  {
+    "id": 49,
+    "name": "Ludmila Guzun",
+    "team": "PDM",
+    "imageUrl": "https://alegeri.md/images/thumb/3/33/Ludmila-Guzun.jpg/250px-Ludmila-Guzun.jpg"
+  },
+  {
+    "id": 50,
+    "name": "Igor Vremea",
+    "team": "PDM",
+    "imageUrl": "https://alegeri.md/images/thumb/9/9d/Igor-Vremea.jpg/250px-Igor-Vremea.jpg"
+  },
+  {
+    "id": 51,
+    "name": "Alexandru Jizdan",
+    "team": "PDM",
+    "imageUrl": "https://alegeri.md/images/thumb/f/f7/Alexandru-Jizdan.jpg/250px-Alexandru-Jizdan.jpg"
+  }
+]
